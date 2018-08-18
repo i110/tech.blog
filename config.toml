@@ -1,0 +1,5 @@
+baseURL = "https://tech.blog.i110.info/"
+languageCode = "ja-JP"
+title = "i110 tech blog"
+theme = "ananke"
+publishDir = "docs"
